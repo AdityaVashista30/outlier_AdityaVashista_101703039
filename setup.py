@@ -15,7 +15,7 @@ setup(
   author = 'Aditya Vashista, 10703039',              
   author_email = 'aditya.vashista30@gmail.com',      
   url = 'https://github.com/AdityaVashista30/outlier_AdityaVashista_101703039',   
-  download_url = 'https://github.com/AdityaVashista30/topsis_AdityaVashista_101703039/archive/v_0.1.tar.gz',    
+  download_url = 'https://github.com/AdityaVashista30/outlier_AdityaVashista_101703039/archive/v_0.1.tar.gz',    
   keywords = ['command-line', 'outlier', 'outlier removal','data cleaning','IQR'],
   install_requires=[            
           'pandas',
