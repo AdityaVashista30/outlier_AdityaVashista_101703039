@@ -6,4 +6,5 @@ To run this via cmd, you need to give one argument only: inputfile.csv
 Examle of usage: python outlier.py
 
 Output: Number of outliers/rows removed = 
+
 And a new file containing no outlier is saved in same directory as: output.csv
